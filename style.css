@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+.logo{
+    width: 5%;
+    height: 5%;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #ffffff; /* Sets text color to white */
+}
+.card-img-top{
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+}
+.admin_image{
+    width: 100px;
+    object-fit: contain;
+}
+.edit_image{
+    width: 10px;
+    height: 10px;
+    object-fit: contain;
+}
+/* 
+.font-color{
+    color: #fff;
+    background-color: #006400;
+}
+
+*/
